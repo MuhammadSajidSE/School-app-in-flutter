@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "469208507961",
+    "project_id": "myschooling-98ac7",
+    "storage_bucket": "myschooling-98ac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469208507961:android:aaf099c67cb7cad3bb0fe8",
+        "android_client_info": {
+          "package_name": "com.example.final_create"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPq2QuglBulzb0qV3C4IFpvSzCByDnhg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469208507961:android:39c958e2a6335e4bbb0fe8",
+        "android_client_info": {
+          "package_name": "com.example.finalschool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPq2QuglBulzb0qV3C4IFpvSzCByDnhg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
